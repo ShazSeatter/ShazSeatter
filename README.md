@@ -36,7 +36,4 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50" height="50"> 
 </p>
 
-
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+> "Success is not final, failure is not fatal. It is the courage to continue that counts." - Winston Churchill
