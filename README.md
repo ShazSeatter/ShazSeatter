@@ -7,8 +7,8 @@
 📚 I am interested in learning to write clean code and incorporating good UI/UX design into my projects
 
 🌍 I am half Malaysian, half Scottish, currently living in Aberdeen, Scotland 
-
-
+</br>
+</br>
 ## Technology Stack: 
 <p>
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50" height="50">
@@ -35,5 +35,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50" height="50"> 
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50" height="50"> 
 </p>
+</br>
+</br>
 
 > "Success is not final, failure is not fatal. It is the courage to continue that counts." - Winston Churchill
