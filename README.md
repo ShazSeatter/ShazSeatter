@@ -2,7 +2,7 @@
 
 ## About me: 
 
-💻 I am have recently graduated from CodeClan's Professional Software Development course
+💻 I have recently graduated from CodeClan's Professional Software Development course
 
 📚 I am interested in learning to write clean code and incorporating good UI/UX design into my projects
 
